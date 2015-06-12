@@ -1,0 +1,1 @@
+﻿// 明るさの最大値（フィルター＞その他＞明るさの最大値）app.activeDocument.activeLayer.applyMaximum(3);

@@ -1,0 +1,1 @@
+﻿// レイヤーを削除するapp.activeDocument.layers[0].remove();

@@ -1,0 +1,1 @@
+﻿// グレースケールモードにするapp.activeDocument.changeMode(ChangeMode.GRAYSCALE);

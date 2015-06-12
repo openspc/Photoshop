@@ -1,0 +1,1 @@
+﻿// 画像を回転させるapp.activeDocument.rotateCanvas(25);

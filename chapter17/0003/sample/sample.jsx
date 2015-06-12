@@ -1,0 +1,1 @@
+// レイヤーカンプを追加するvar comp = app.activeDocument.layerComps.add(    "名前入り",    "2015/1/21に作成",    true,   // 外観（レイヤースタイル）    true,   // 位置    true    // 表示／非表示);

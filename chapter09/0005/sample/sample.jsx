@@ -1,0 +1,1 @@
+﻿// Labカラーで指定するvar color = new SolidColor();color.lab.l = 34;    // 明度color.lab.a = 54;   // 赤〜緑color.lab.b = -104;    // 青〜黄// 新規のドキュメントを作成し指定した色で塗り潰すdocuments.add(320, 240, 72, "Sample", NewDocumentMode.RGB);activeDocument.selection.selectAll();activeDocument.selection.fill(color,ColorBlendMode.NORMAL, 100, false);activeDocument.selection.deselect();

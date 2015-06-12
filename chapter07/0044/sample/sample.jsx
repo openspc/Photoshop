@@ -1,0 +1,1 @@
+﻿// インターレース解除（フィルター＞ビデオ＞インターレース解除...）app.activeDocument.activeLayer.applyDeInterlace(    EliminateFields.ODDFIELDS,  // 奇数フィールド    CreateFields.INTERPOLATION  // 新規ラインは補間する);

@@ -1,0 +1,1 @@
+﻿// 選択範囲を滑らかにするapp.activeDocument.selection.smooth(20);

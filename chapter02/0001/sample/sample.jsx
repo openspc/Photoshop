@@ -1,0 +1,1 @@
+// フォトショップのみ動作させるvar aName = app.name;alert(aName);if (aName.indexOf("Photoshop") > -1){    alert("フォトショップなので自動処理を行います");}else{    alert(aName+"では動作しません");}

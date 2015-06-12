@@ -1,0 +1,1 @@
+﻿// 彩度を下げる（イメージ＞色調補正＞彩度を下げる）app.activeDocument.activeLayer.desaturate();

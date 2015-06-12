@@ -1,0 +1,1 @@
+﻿// 文字をシェイプに変換するapp.activeDocument.activeLayer.textItem.convertToShape();

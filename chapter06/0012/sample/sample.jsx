@@ -1,0 +1,1 @@
+﻿// レイヤーセットの表示／非表示app.activeDocument.layerSets["紅葉"].visible = true;  // 表示するapp.activeDocument.layerSets["テキスト"].visible = false;   // 表示しない

@@ -1,0 +1,1 @@
+﻿// アクティブレイヤーを背景にするapp.activeDocument.activeLayer.isBackgroundLayer = true;

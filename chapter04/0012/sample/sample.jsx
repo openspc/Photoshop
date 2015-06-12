@@ -1,0 +1,1 @@
+﻿// トラッピングを設定するapp.activeDocument.trap(2);

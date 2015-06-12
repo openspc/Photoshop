@@ -1,0 +1,1 @@
+﻿// レイヤーを追加するvar layerObj = app.activeDocument.artLayers.add();// テキストレイヤーを追加するvar textLayerObj = app.activeDocument.artLayers.add();textLayerObj.kind = LayerKind.TEXT;

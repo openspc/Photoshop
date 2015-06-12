@@ -1,0 +1,1 @@
+﻿// レイヤーマスクのぼかし幅を変更するapp.activeDocument.layers["チューリップ"].layerMaskFeather = 10;

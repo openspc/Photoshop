@@ -1,0 +1,1 @@
+﻿// ファイルを開くvar fileObj = File.openDialog("ファイルを選択してください");if(fileObj){    app.open(fileObj);    // 以後、何らかの処理}

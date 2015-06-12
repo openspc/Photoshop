@@ -1,0 +1,1 @@
+﻿// 段落テキストの横幅と縦幅を変更するvar layObj = app.activeDocument.activeLayer;if (layObj.textItem.kind == TextType.PARAGRAPHTEXT){    layObj.textItem.width = UnitValue("120px");  // 横幅    layObj.textItem.height = UnitValue("100px"); // 縦幅}

@@ -1,0 +1,1 @@
+﻿// ドキュメントを閉じるapp.activeDocument.close(SaveOptions.DONOTSAVECHANGES); // 変更を保存しない

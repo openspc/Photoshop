@@ -1,0 +1,1 @@
+// レイヤーセット内の画像の位置を変更するvar lsObj = app.activeDocument.layerSets["紅葉"];var dx = UnitValue(20, "px");   // 20pxvar dy = UnitValue(3, "cm");    // 3cmlsObj.translate(dx, dy);

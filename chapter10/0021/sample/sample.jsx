@@ -1,0 +1,1 @@
+﻿// 選択範囲をカットするapp.activeDocument.selection.cut();

@@ -1,0 +1,1 @@
+﻿// ドキュメントの横幅と縦幅を求めるvar docObj = app.activeDocument;var wU = docObj.width;  // 単位付き横幅var hU = docObj.height; // 単位付き縦幅var w = docObj.width.value; // 単位なし横幅var h = docObj.height.value;    // 単位なし縦幅var wCM = docObj.width.as("cm");var hCM = docObj.width.as("cm");alert(wU+"×"+hU+"\n"+w+"×"+h+"\n"+wCM+"×"+hCM); 

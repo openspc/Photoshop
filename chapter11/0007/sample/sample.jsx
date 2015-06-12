@@ -1,0 +1,1 @@
+﻿// 指定したパスを選択するapp.activeDocument.pathItems["作業用パス"].select();

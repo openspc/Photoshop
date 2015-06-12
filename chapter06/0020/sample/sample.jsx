@@ -1,0 +1,1 @@
+// レイヤーセット内の画像を回転させるvar lsObj = app.activeDocument.layerSets["紅葉"];lsObj.rotate(45, AnchorPosition.MIDDLECENTER);

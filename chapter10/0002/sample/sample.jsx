@@ -1,0 +1,1 @@
+﻿// すべてを選択するapp.activeDocument.selection.selectAll();

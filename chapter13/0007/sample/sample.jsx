@@ -1,0 +1,1 @@
+﻿// Pixer形式で保存するvar fileObj = new File("~/Desktop/sample.pxr");var pixarOpt = new PixarSaveOptions();pixarOpt.alphaChannels = true;  // αチャンネルは保存activeDocument.saveAs(fileObj, pixarOpt, true, Extension.LOWERCASE);

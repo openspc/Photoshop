@@ -1,0 +1,1 @@
+﻿// アクティブになっているヒストリー名を表示するvar text = app.activeDocument.activeHistoryState.name;alert(text);

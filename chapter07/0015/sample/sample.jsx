@@ -1,0 +1,1 @@
+﻿// 明るさの最小値（フィルター＞その他＞明るさの最小値）app.activeDocument.activeLayer.applyMinimum(3);

@@ -1,0 +1,1 @@
+// カラーバランスを調整（イメージ＞色調補正＞カラーバランス）app.activeDocument.activeLayer.adjustColorBalance(    [0, -10, 80],   // シャドウ部分    [1, -5, 5], // 中間調部分    [2, -7, 7], // ハイライト部分    true    // 輝度を保持);

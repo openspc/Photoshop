@@ -1,0 +1,1 @@
+﻿// ダイアログモードを指定するapp.displayDialogs = DialogModes.NO;

@@ -1,0 +1,1 @@
+﻿// 近似色を選択するapp.activeDocument.selection.similar(0, true);

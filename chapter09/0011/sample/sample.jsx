@@ -1,0 +1,1 @@
+﻿// カラーサンプルのカラーを表示するvar color = app.activeDocument.colorSamplers[0].color;var R = color.rgb.red;var G = color.rgb.green;var B = color.rgb.blue;alert(R+", "+G+", "+B); // RGB値を表示

@@ -1,0 +1,1 @@
+﻿// NTSCカラーにする（フィルター＞ビデオ＞NTSC カラー）app.activeDocument.activeLayer.applyNTSC();

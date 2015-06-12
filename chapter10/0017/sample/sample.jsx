@@ -1,0 +1,1 @@
+﻿// 選択範囲のぼかし幅を指定するapp.activeDocument.selection.feather(UnitValue("20px"));

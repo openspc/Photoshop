@@ -1,0 +1,1 @@
+﻿// レイヤーセットをすべて削除するremoveLayer(app.activeDocument);function removeLayer(obj){    for(var i=obj.layerSets.length-1; i>=0; i--){        // 内包されているレイヤーセットの総数を求める        var n = obj.layerSets[i].layerSets.length;        if (n > 0){ // レイヤーセットが内包されていれば再帰で削除する            removeLayer(obj.layerSets[i]);        }        obj.layerSets[i].remove();  // レイヤーセットを削除する    }}

@@ -1,0 +1,1 @@
+﻿// ぼかす（フィルター＞ぼかし＞ぼかし(ガウス)）app.activeDocument.activeLayer.applyGaussianBlur(3);

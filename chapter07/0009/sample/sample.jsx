@@ -1,0 +1,1 @@
+﻿// ポスタリゼーション（イメージ＞色調補正＞ポスタリゼーション）app.activeDocument.activeLayer.posterize(4);

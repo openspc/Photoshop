@@ -1,0 +1,1 @@
+﻿// 選択範囲のサイズを表示するvar rect = app.activeDocument.selection.bounds;var left = rect[0]; // 左側var top = rect[1];  // 上側var right = rect[2];    // 右側var bottom = rect[3];   // 下側alert(left+", "+top+", "+right+", "+bottom);

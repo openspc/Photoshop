@@ -1,0 +1,1 @@
+﻿// 明るさの中間値（フィルター＞ノイズ＞明るさの中間値）app.activeDocument.activeLayer.applyMedianNoise(1);

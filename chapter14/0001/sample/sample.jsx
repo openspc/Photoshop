@@ -1,0 +1,1 @@
+﻿// ファイルを開くvar fileList = app.openDialog(); // Photoshopのオープンダイアログfor(var i=0; i<fileList.length; i++){   // 選択されたファイル数だけ開く    open(fileList[i], OpenDocumentType.JPEG, false);}

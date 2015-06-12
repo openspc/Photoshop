@@ -1,0 +1,1 @@
+﻿// ノイズを加える（フィルター＞ノイズ＞ノイズを加える）app.activeDocument.activeLayer.applyAddNoise(    29,    // 量    NoiseDistribution.GAUSSIAN, // ガウス分布    true    // グレースケールノイズ);

@@ -1,0 +1,1 @@
+﻿// 波紋にする（フィルター＞変形＞波紋）app.activeDocument.activeLayer.applyRipple(700, RippleSize.MEDIUM);

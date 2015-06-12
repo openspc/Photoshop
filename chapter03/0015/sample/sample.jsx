@@ -1,0 +1,1 @@
+// ドキュメントを別名で保存するvar fileObj = new File("~/Desktop/上高地.psd");app.activeDocument.saveAs(fileObj);

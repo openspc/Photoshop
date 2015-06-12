@@ -1,0 +1,1 @@
+﻿// チャンネルを削除するapp.activeDocument.channels["人物用"].remove();

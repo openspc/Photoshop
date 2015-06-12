@@ -1,0 +1,1 @@
+﻿// 文字をパスに変換するapp.activeDocument.activeLayer.textItem.createPath();

@@ -1,0 +1,1 @@
+﻿// パスの総数を求めるvar n = app.activeDocument.pathItems.length;alert(n);

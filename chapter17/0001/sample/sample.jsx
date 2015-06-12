@@ -1,0 +1,1 @@
+﻿// レイヤーカンプの総数を求めるvar n = app.activeDocument.layerComps.length;alert(n+"個あります");

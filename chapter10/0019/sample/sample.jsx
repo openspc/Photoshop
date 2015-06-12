@@ -1,0 +1,1 @@
+﻿// 選択範囲を塗り潰すvar color = new SolidColor();   // 赤色を設定するcolor.rgb.red = 255;color.rgb.green = 0;color.rgb.blue = 0;app.activeDocument.selection.fill(color);

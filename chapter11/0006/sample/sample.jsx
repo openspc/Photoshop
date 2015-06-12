@@ -1,0 +1,1 @@
+﻿// パスをすべて削除するapp.activeDocument.pathItems.removeAll();

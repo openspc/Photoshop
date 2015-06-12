@@ -1,0 +1,1 @@
+﻿// レイヤーセットの矩形サイズを表示するvar rect = app.activeDocument.layerSets["紅葉"].bounds;var left = rect[0]; // 左座標var top = rect[1];  // 上座標var right = rect[2];    // 右座標var bottom = rect[3];   // 下座標alert("("+left+", "+top+")-("+right+", "+bottom+")");

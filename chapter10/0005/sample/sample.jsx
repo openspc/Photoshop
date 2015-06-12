@@ -1,0 +1,1 @@
+﻿// 選択範囲をパスに変換するapp.activeDocument.selection.makeWorkPath();

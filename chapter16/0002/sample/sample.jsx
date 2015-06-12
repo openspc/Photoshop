@@ -1,0 +1,1 @@
+﻿// ヒストリーの名前を取得するvar hisName1 = app.activeDocument.historyStates.getByName("色相・彩度");var hisName2 = app.activeDocument.historyStates[6].name;alert(hisName1);alert(hisName2);

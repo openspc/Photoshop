@@ -1,0 +1,1 @@
+﻿// 実行中の環境の言語を調べるvar lang = app.locale;alert(lang);

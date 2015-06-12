@@ -1,0 +1,1 @@
+﻿// レイヤーを複製するvar baseLayer = app.activeDocument.layers[0];   // 一番上のレイヤーapp.activeDocument.layers["白マット"].duplicate(    baseLayer,  // 基準レイヤー    ElementPlacement.PLACEBEFORE    // 基準レイヤーの上にする);

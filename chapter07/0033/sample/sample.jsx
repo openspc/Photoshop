@@ -1,0 +1,1 @@
+﻿// 球面（フィルター＞変形＞球面）app.activeDocument.activeLayer.applySpherize(90, SpherizeMode.NORMAL);

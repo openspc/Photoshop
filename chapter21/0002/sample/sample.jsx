@@ -1,0 +1,1 @@
+﻿// バッチ処理を実行するvar imageFolder = new Folder("~/Desktop/images/");  // デスクトップのimagesフォルダvar fileList = imageFolder.getFiles("*.jpg");   // JPEGファイルのみ処理するapp.batch(fileList, "クワドラントカラー", "初期設定のアクション");

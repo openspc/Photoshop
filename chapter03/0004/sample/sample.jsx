@@ -1,0 +1,1 @@
+﻿// ドキュメントのパスを求めるvar fileObj = app.activeDocument.path;alert(fileObj.path+"\n"+fileObj.fullName);

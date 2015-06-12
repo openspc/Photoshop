@@ -1,0 +1,1 @@
+﻿// 段落テキストの横幅と縦幅を表示するvar layObj = app.activeDocument.activeLayer;if (layObj.textItem.kind == TextType.PARAGRAPHTEXT){    var w = layObj.textItem.width;  // 横幅    var h = layObj.textItem.height; // 縦幅    alert(w+"×"+h);}

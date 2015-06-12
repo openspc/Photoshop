@@ -1,0 +1,1 @@
+﻿// 画像を統合するapp.activeDocument.flatten();

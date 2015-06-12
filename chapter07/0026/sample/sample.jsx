@@ -1,0 +1,1 @@
+﻿// ぼかす（フィルター＞ノイズ＞輪郭以外をぼかす）app.activeDocument.activeLayer.applyDespeckle();

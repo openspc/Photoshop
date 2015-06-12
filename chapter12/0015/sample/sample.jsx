@@ -1,0 +1,1 @@
+﻿// 段落テキストを縦書きにするapp.activeDocument.activeLayer.textItem.direction = Direction.VERTICAL;

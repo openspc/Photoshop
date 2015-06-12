@@ -1,0 +1,1 @@
+﻿// レイヤーをラスタライズするapp.activeDocument.rasterizeAllLayers();

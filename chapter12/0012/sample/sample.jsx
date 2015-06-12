@@ -1,0 +1,1 @@
+﻿// 行揃えを指定するlayObj = app.activeDocument.activeLayer.textItem.justification = Justification.RIGHT;

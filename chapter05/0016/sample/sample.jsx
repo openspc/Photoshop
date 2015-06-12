@@ -1,0 +1,1 @@
+﻿// レイヤーを表示／非表示にするapp.activeDocument.layers[0].visible = true;    // 一番上のレイヤーを表示app.activeDocument.layers["ローマ字"].visible = false;    // "ローマ字"レイヤーを非表示app.activeDocument.layerSets["グループ 1"].layers["マット"].visible = true;    // グループ内のレイヤーを表示

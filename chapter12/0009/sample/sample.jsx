@@ -1,0 +1,1 @@
+﻿// アクティブレイヤーの水平比率を変更するapp.activeDocument.activeLayer.textItem.horizontalScale = 300;

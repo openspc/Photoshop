@@ -1,0 +1,1 @@
+﻿// Photoshopを終了させるvar desc = new ActionDescriptor();var quitID = charIDToTypeID("quit");executeAction(quitID, desc, DialogModes.NO);

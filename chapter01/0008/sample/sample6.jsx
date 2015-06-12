@@ -1,0 +1,1 @@
+﻿// レイヤーにエフェクトを設定するtry{    var layObj = app.activeDocument.artLayers["telop"];    layObj.applyGaussianBlur(4);}catch(e){}

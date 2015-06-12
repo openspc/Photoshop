@@ -1,0 +1,1 @@
+﻿// 空きメモリを表示する／メモリを解放するapp.purge(PurgeTarget.ALLCACHES); var mem = app.freeMemory;alert(mem);

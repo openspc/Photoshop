@@ -1,0 +1,1 @@
+﻿// 雲模様を描く（フィルター＞描画＞雲模様2）app.activeDocument.activeLayer.applyDifferenceClouds();

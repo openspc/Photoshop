@@ -1,0 +1,1 @@
+﻿// ぼかす（フィルター＞ぼかし＞ぼかし(放射状)）app.activeDocument.activeLayer.applyRadialBlur(    30,    RadialBlurMethod.ZOOM,  // ズーム    RadialBlurQuality.BEST  // 高品質);

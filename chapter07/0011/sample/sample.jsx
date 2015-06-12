@@ -1,0 +1,1 @@
+﻿// 平均にする（フィルター＞ぼかし＞平均）app.activeDocument.activeLayer.applyAverage();

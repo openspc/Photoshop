@@ -1,0 +1,1 @@
+﻿// 単位を読み出す／変更するvar saveUnit = app.preferences.rulerUnits;var savetypeUnit = app.preferences.typeUnits;alert("単位："+saveUnit+"\n文字の単位；"+savetypeUnit);app.preferences.rulerUnits = Units.PIXELS;app.preferences.typeUnits = TypeUnits.MM;

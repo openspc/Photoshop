@@ -1,0 +1,1 @@
+﻿// レイヤーセット内にレイヤーを追加する（サブレイヤーの追加）var laySet = app.activeDocument.layerSets["テキスト"];var layerObj = laySet.artLayers.add();  // レイヤー追加layerObj.kind = LayerKind.TEXT; // テキストレイヤーlayerObj.textItem.font = "HiraMinPro-W6";   // フォントlayerObj.textItem.contents = "諏訪湖"; // 表示する文字layerObj.textItem.size = UnitValue("24pt"); // 文字サイズ

@@ -1,0 +1,1 @@
+﻿// インデックスカラーモードにするvar opt = new IndexedConversionOptions();opt.palette = Palette.UNIFORM;    // 指定した数のカラーopt.colors = 8;  // 8色opt.dither = Dither.PATTERN;    // パターンディザapp.activeDocument.changeMode(ChangeMode.INDEXEDCOLOR, opt);

@@ -1,0 +1,1 @@
+﻿// レイヤーのリンク先を調べるvar text = "";var targetLayer = app.activeDocument.layerSets["グループ 1"].layers["ホワイトバー"].linkedLayers;for(var i=0; i<targetLayer.length; i++){    text = text + targetLayer[i].name+"\n"; // リンク先レイヤー名を取得}alert(text);

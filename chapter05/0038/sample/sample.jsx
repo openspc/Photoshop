@@ -1,0 +1,1 @@
+﻿// レイヤー全体の不透明度を指定するapp.activeDocument.layers["富士山画像"].opacity = 20;

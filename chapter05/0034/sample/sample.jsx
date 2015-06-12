@@ -1,0 +1,1 @@
+﻿// レイヤーの透明ピクセルをロックするapp.activeDocument.layers["マット"].transparentPixelsLocked = true;

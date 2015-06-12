@@ -1,0 +1,1 @@
+// ジグザグ（フィルター＞変形＞ジグザグ）app.activeDocument.activeLayer.applyZigZag(50, 10, ZigZagType.AROUNDCENTER);

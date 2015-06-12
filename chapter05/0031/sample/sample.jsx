@@ -1,0 +1,1 @@
+﻿// レイヤーの位置をロックapp.activeDocument.layers["マット"].positionLocked = true;

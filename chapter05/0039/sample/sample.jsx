@@ -1,0 +1,1 @@
+﻿// 塗りの不透明度を変更するapp.activeDocument.layers["タイトル文字"].fillOpacity = 20;

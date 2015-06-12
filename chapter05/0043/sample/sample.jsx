@@ -1,0 +1,1 @@
+﻿// レイヤーのリンクを解除するapp.activeDocument.layers["白マット1"].unlink();

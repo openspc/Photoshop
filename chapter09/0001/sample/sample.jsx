@@ -1,0 +1,1 @@
+﻿// RGBカラーで指定するvar color = new SolidColor();color.rgb.red = 196;    // 赤の輝度color.rgb.green = 10;   // 緑の輝度color.rgb.blue = 32;    // 青の輝度// 新規のドキュメントを作成し指定した色で塗り潰すdocuments.add(320, 240, 72, "Sample", NewDocumentMode.RGB);activeDocument.selection.selectAll();activeDocument.selection.fill(color,ColorBlendMode.NORMAL, 100, false);activeDocument.selection.deselect();

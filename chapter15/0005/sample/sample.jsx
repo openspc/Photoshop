@@ -1,0 +1,1 @@
+﻿// ガイドを削除するvar g = activeDocument.guides;for(var i=g.length-1; i>=0; i--){    if (g[i].direction == Direction.HORIZONTAL){        g[i].remove();    }}

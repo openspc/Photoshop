@@ -1,0 +1,1 @@
+﻿// グレースケールカラーで指定するvar color = new SolidColor();color.gray.gray = 50.8;    // 輝度// 新規のドキュメントを作成し指定した色で塗り潰すdocuments.add(320, 240, 72, "Sample", NewDocumentMode.GRAYSCALE);activeDocument.selection.selectAll();activeDocument.selection.fill(color,ColorBlendMode.NORMAL, 100, false);activeDocument.selection.deselect();

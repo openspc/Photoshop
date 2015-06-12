@@ -1,0 +1,1 @@
+﻿// ドキュメント名を求めるvar docName = app.activeDocument.name;alert(docName);

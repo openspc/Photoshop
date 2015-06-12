@@ -1,0 +1,1 @@
+﻿// チャンネルを複製するvar chObj = app.activeDocument.channels["レッド"];chObj.duplicate();

@@ -1,0 +1,1 @@
+﻿// ヒストリーをすべて消すapp.purge(PurgeTarget.HISTORYCACHES);

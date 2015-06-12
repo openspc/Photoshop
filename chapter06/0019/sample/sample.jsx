@@ -1,0 +1,1 @@
+﻿// レイヤーセット内の画像のサイズを変更するvar lsObj = app.activeDocument.layerSets["紅葉"];lsObj.resize(120, 40, AnchorPosition.MIDDLECENTER);

@@ -1,0 +1,1 @@
+﻿// カウントを5つ追加するfor(var i=0; i<5; i++){    var x = new UnitValue(i * 20 + 60, "px");    var y = new UnitValue(i * 25 + 50, "px");    app.activeDocument.countItems.add([x, y]);}

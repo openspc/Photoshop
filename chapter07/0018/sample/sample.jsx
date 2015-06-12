@@ -1,0 +1,1 @@
+﻿// ダスト＆スクラッチ（フィルター＞ノイズ＞ダスト＆スクラッチ）app.activeDocument.activeLayer.applyDustAndScratches(15, 10);

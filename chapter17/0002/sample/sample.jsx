@@ -1,0 +1,1 @@
+﻿// レイヤーカンプの名前を表示するvar compName = app.activeDocument.layerComps[2].name;alert(compName);

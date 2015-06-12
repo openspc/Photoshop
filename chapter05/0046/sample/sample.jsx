@@ -1,0 +1,1 @@
+﻿// 表示レイヤーを統合するapp.activeDocument.mergeVisibleLayers();

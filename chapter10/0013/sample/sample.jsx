@@ -1,0 +1,1 @@
+﻿// 選択範囲を縮小するapp.activeDocument.selection.contract(UnitValue("30px"));

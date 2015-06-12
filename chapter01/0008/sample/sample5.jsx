@@ -1,0 +1,1 @@
+﻿// レイヤーにエフェクトを設定するvar layObj = app.activeDocument.artLayers["jsText"];layObj.applyGaussianBlur(4);

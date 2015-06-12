@@ -1,0 +1,1 @@
+﻿// 座標を指定して選択範囲にするvar saveUnit = preferences.rulerUnits;preferences.rulerUnits = Units.PIXELS;  // 単位をピクセルに変更var region = [    [20, 10],  // XY座標(1)    [300, 90],  // XY座標(2)    [50, 200]  // XY座標(3)];app.activeDocument.selection.select(region, SelectionType.REPLACE, 0, true);preferences.rulerUnits = saveUnit;  // 元の単位に戻す

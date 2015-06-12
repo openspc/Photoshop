@@ -1,0 +1,1 @@
+﻿// ヒストリーがスナップショットかどうか調べるvar his=app.activeDocument.historyStates[2];alert(his.snapshot);

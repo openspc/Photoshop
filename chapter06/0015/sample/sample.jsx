@@ -1,0 +1,1 @@
+﻿// レイヤーセットをリンクするvar docObj = app.activeDocument;var layerSetObj1 = docObj.layerSets["テキスト"];var layerSetObj2 = docObj.layerSets["外枠"];var layerObj = docObj.layerSets["紅葉"].layers["leaf"];layerSetObj1.link(layerSetObj2);    // レイヤーセット"外枠"とリンクlayerSetObj1.link(layerObj);    // レイヤー"leaf"とリンク

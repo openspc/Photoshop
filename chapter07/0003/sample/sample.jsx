@@ -1,0 +1,1 @@
+// レンズフィルター（イメージ＞色調補正＞レンズフィルター）var color = new SolidColor();   // 橙色color.rgb.red = 250;color.rgb.green = 120;color.rgb.blue = 0;app.activeDocument.activeLayer.photoFilter(    color,    100,    true);

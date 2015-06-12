@@ -1,0 +1,1 @@
+﻿// 画像をペーストするapp.activeDocument.paste();

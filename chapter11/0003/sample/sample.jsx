@@ -1,0 +1,1 @@
+﻿// 指定したパスを複製するapp.activeDocument.pathItems["パス 1"].duplicate("Octパス");

@@ -1,0 +1,1 @@
+﻿// ドキュメント情報を求めるvar docInfo = app.activeDocument.info;alert(    "作　者 : "+docInfo.author+"\n"+    "作成日："+docInfo.creationDate+"\n"+    "タイトル："+docInfo.title);

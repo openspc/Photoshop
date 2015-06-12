@@ -1,0 +1,1 @@
+﻿// RAW形式で保存するvar fileObj = new File("~/Desktop/sample.raw");var rawOpt = new RawSaveOptions();rawOpt.alphaChannels = true;    // αチャンネルも含めるrawOpt.spotColors = false;  // スポットカラーは保存しないactiveDocument.saveAs(fileObj, rawOpt, true, Extension.LOWERCASE);

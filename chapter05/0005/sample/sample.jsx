@@ -1,0 +1,1 @@
+// 一番上のレイヤーをアクティブにするapp.activeDocument.activeLayer = app.activeDocument.layers[0];

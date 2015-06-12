@@ -1,0 +1,1 @@
+﻿// テキストレイヤーをラスタライズする（レイヤーセットは考慮しない）var layerList = app.activeDocument.layers;for(var i=layerList.length-1; i>=0; i--){    try{    // レイヤーの種類によってエラーになるのでtry...catchで回避        layerList[i].rasterize(RasterizeType.TEXTCONTENTS);    }catch(e){}}

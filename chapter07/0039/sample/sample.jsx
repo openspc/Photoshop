@@ -1,0 +1,1 @@
+﻿// 渦巻き状にする（フィルタ＞変形＞渦巻き）app.activeDocument.activeLayer.applyTwirl(360);

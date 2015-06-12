@@ -1,0 +1,1 @@
+// カンバスサイズを変更するapp.activeDocument.resizeCanvas(    UnitValue("480px"), // 横幅480px    UnitValue("280px"), // 縦幅 280px    AnchorPosition.TOPLEFT   // 左上基準);

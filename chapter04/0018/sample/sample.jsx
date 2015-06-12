@@ -1,0 +1,1 @@
+﻿//  画像の縦横比を考慮してリサイズするresizeAR(400);function resizeAR(size){    var doc = app.activeDocument;    var docW = parseFloat(doc.width.as("px"));  // 横幅を読み出す    var docH = parseFloat(doc.height.as("px")); // 縦幅を読み出す    if (docW > docH){   // 横長の画像の場合        doc.resizeImage(UnitValue(size, "px"));    }else{        doc.resizeImage(undefined, UnitValue(size, "px"),);    }}

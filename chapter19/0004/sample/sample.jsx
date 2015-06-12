@@ -1,0 +1,1 @@
+// すべてのカウントを削除するapp.activeDocument.countItems.removeAll();

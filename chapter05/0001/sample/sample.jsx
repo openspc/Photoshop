@@ -1,0 +1,1 @@
+﻿// レイヤーの総数を求めるvar n = app.activeDocument.layers.length;alert(n+"個あります");

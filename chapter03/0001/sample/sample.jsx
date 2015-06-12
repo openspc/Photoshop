@@ -1,0 +1,1 @@
+﻿// 新規にドキュメントを作成するvar docObj = app.documents.add(    UnitValue(320, "px"),   // 横幅    UnitValue(240, "px"),   // 縦幅    300,    // 300dpi    "サンプル", // ドキュメント名    NewDocumentMode.RGB,    //カラーモード    DocumentFill.TRANSPARENT,   // 背景は透明    1.0,    // 縦横比    BitsPerChannelType.THIRTYTWO,    // 32bit色深度    "sRGB IEC61966-2.1"   // カラープロファイルは「sRGB」);

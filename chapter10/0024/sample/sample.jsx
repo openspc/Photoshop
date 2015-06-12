@@ -1,0 +1,1 @@
+﻿// 選択範囲内の画像のサイズを変更するapp.activeDocument.selection.resize(50, 120, AnchorPosition.MIDDLECENTER);

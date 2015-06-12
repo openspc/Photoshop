@@ -1,0 +1,1 @@
+﻿// カラーサンプルをすべて削除するapp.activeDocument.colorSamplers.removeAll();

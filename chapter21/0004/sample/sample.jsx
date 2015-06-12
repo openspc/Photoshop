@@ -1,0 +1,1 @@
+﻿// メニューを実行するapp.runMenuItem(stringIDToTypeID("toggleHistoryPalette"));  // ヒストリーパネル表示を交互に切り替えapp.runMenuItem(stringIDToTypeID("toggleGrid"));    // グリッド表示を交互に切り替えapp.runMenuItem(stringIDToTypeID("saveForWeb"));    // Web用に保存ダイアログを表示app.runMenuItem(stringIDToTypeID("swatchesSave")); // スウォッチの保存app.runMenuItem(charIDToTypeID("ActP"));    // 100%表示にする

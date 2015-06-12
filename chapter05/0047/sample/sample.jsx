@@ -1,0 +1,1 @@
+// すべてのレイヤーを統合するapp.activeDocument.flatten();

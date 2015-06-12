@@ -1,0 +1,1 @@
+﻿// シャープにする（フィルター＞シャープ＞シャープ(強)）app.activeDocument.activeLayer.applySharpenMore();

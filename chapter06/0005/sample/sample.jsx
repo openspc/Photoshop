@@ -1,0 +1,1 @@
+﻿// レイヤーセットを複製するvar lsObj = app.activeDocument.layerSets["紅葉"];var dupLsObj = lsObj.duplicate(    app.activeDocument.layerSets[0],    // 最初のレイヤーセットを基準    ElementPlacement.PLACEBEFORE);  // 一番上に配置

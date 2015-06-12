@@ -1,0 +1,1 @@
+﻿// チャンネルをマージ（統合）するvar chObj = app.activeDocument.channels["spot1"];chObj.merge();

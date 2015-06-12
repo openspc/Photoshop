@@ -1,0 +1,1 @@
+﻿// レイヤーをリンクするvar docObj = app.activeDocument;var layer1 = docObj.layers["白マット1"];var layer2 = docObj.layers["白マット2"];layer1.link(layer2);    // 2つのレイヤーをリンク

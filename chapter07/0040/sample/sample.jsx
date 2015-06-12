@@ -1,0 +1,1 @@
+﻿// 置き換え（フィルター＞変形＞置き換え）var fileObj = new File("~/Desktop/text.psd");   // デスクトップ上にあるtext.psdファイルapp.activeDocument.activeLayer.applyDisplace(    10,    // 水平比率    10,    // 垂直比率    DisplacementMapType.STRETCHTOFIT,   // 同一サイズに調整    UndefinedAreas.REPEATEDGEPIXELS,    // 端のピクセルを繰り返して埋める    fileObj // ファイルオブジェクト);

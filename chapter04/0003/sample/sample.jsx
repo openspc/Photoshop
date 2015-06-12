@@ -1,0 +1,1 @@
+﻿// 画像をトリミングするapp.activeDocument.trim(    TrimType.TRANSPARENT,   // 透明部分を切り抜く    true,   // 上をトリミング対象にする    true,   // 左をトリミング対象にする    true,   // 下をトリミング対象にする    true   // 右をトリミング対象にする);

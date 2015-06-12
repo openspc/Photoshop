@@ -1,0 +1,1 @@
+// 選択範囲の境界線を描画するvar color = new SolidColor();   // 赤色を設定するcolor.rgb.red = 255;color.rgb.green = 0;color.rgb.blue = 0;app.activeDocument.selection.stroke(color, 3, StrokeLocation.INSIDE);

@@ -1,0 +1,1 @@
+﻿// 新規にレイヤーを追加し現在の日付を入れる(function(){    var layObj = app.activeDocument.artLayers.add();    var dateObj = new Date();    var y = dateObj.getFullYear();    var m = dateObj.getMonth()+1;    var d = dateObj.getDate();    layObj.name = y+"/"+m+"/"+d;})();

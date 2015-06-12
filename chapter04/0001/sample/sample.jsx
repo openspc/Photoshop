@@ -1,0 +1,1 @@
+// 画像のサイズを変更するapp.activeDocument.resizeImages(    UnitValue("100px"), // 横幅100px    UnitValue("80px"), // 縦幅 80px	300,	// 解像度    ResampleMethod.AUTOMATIC,	// 自動	100);

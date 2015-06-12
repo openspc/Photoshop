@@ -1,0 +1,1 @@
+﻿// 指定したパスを塗り潰すvar color = new SolidColor();   // 赤色を設定するcolor.rgb.red = 255;color.rgb.green = 0;color.rgb.blue = 0;app.activeDocument.pathItems["パス 1"].makeSelection();   // パスを選択範囲にするapp.activeDocument.selection.fill(color);   // 塗り潰す

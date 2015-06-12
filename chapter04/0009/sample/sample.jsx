@@ -1,0 +1,1 @@
+﻿// 画像を切り抜くapp.activeDocument.crop([        UnitValue("20px"),        UnitValue("30px"),        UnitValue("250px"),        UnitValue("180px")    ],    45,  // 45度でくり抜き    UnitValue("300px"), // 横幅    UnitValue("300px")  // 縦幅);

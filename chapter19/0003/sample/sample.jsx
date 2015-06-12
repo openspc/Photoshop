@@ -1,0 +1,1 @@
+// 3番目のカウントを1つ削除するapp.activeDocument.countItems[3].remove();

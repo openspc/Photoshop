@@ -1,0 +1,1 @@
+﻿// ぼかす（フィルター＞ぼかし＞ぼかし(移動)）app.activeDocument.activeLayer.applyMotionBlur(45, 50);

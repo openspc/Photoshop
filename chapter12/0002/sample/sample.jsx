@@ -1,0 +1,1 @@
+﻿// フォント一覧を出力するvar fontList = app.fonts;for(var i=0; i<fontList.length; i++){    $.writeln("name : " + fontList[i].name);    $.writeln("family : " + fontList[i].family);    $.writeln("style : " + fontList[i].style);    $.writeln("postScriptName : " + fontList[i].postScriptName);    $.writeln("-------------------------------");}

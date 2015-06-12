@@ -1,0 +1,1 @@
+﻿// 階調（色）を反転させる（イメージ＞色調補正＞階調の反転）app.activeDocument.activeLayer.invert();

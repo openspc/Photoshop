@@ -1,0 +1,1 @@
+﻿// 海の波紋（フィルター＞変形＞海の波紋）app.activeDocument.activeLayer.applyOceanRipple(10, 20);

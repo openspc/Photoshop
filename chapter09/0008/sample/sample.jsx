@@ -1,0 +1,1 @@
+﻿// カラーサンプルの総数を表示するvar n = app.activeDocument.colorSamplers.length;alert(n);

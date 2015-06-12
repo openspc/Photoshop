@@ -1,0 +1,1 @@
+﻿// 計測結果を記録するapp.activeDocument.recordMeasurements(MeasurementSource.MEASURECOUNTTOOL);

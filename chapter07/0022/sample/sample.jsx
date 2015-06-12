@@ -1,0 +1,1 @@
+﻿// レンズぼかし（フィルター＞ぼかし＞ぼかし(レンズ)）app.activeDocument.activeLayer.applyLensBlur(    DepthMapSource.NONE,    // ソース「なし」    0,  // ぼかしの焦点距離    false,  // 反転しない    Geometry.HEXAGON,   // 形状は六角形    8,  // 半径    0,  // 絞りの円形度    7,  // 回転    5,  // 明るさ    150,    // 閾値    0,  // ノイズの量    NoiseDistribution.UNIFORM,  // 均等に分布    false   // グレースケールノイズにしない);

@@ -1,0 +1,1 @@
+﻿// 計測結果を保存するvar fileObj = new File("~/Desktop/mes.txt");fileObj.encoding = "utf-16";app.measurementLog.exportMeasurements(fileObj, MeasurementRange.ALLMEASUREMENTS);// アクティブになっている計測結果だけを保存するvar fileObj = new File("~/Desktop/mes2.txt");fileObj.encoding = "utf-16";app.measurementLog.exportMeasurements(fileObj, MeasurementRange.ACTIVEMEASUREMENTS);

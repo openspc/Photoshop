@@ -1,0 +1,1 @@
+﻿// 指定したパスを選択範囲にするapp.activeDocument.pathItems["パス 1"].makeSelection();

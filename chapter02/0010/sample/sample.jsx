@@ -1,0 +1,1 @@
+﻿// 実行されているスクリプトのファイル名を表示するvar currentScriptFile = $.fileName;alert(File.decode(currentScriptFile));

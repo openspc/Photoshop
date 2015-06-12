@@ -1,0 +1,1 @@
+﻿// 明るさとコントラストを調整するapp.activeDocument.activeLayer.adjustBrightnessContrast(-20, 80);

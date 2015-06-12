@@ -1,0 +1,1 @@
+﻿// 選択範囲が矩形かどうか調べるvar flag = app.activeDocument.selection.solid;if (flag === true) {    alert("選択範囲は矩形です");}else{    alert("選択範囲は矩形ではありません");}

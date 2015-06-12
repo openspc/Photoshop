@@ -1,0 +1,1 @@
+﻿// シャープにする（フィルター＞シャープ＞シャープ(輪郭のみ)）app.activeDocument.activeLayer.applySharpenEdges();

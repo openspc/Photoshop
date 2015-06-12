@@ -1,0 +1,1 @@
+﻿// レイヤーセットのリンクを解除するapp.activeDocument.layerSets["テキスト"].unlink();

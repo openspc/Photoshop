@@ -1,0 +1,1 @@
+﻿// アクティブにするレイヤーセットを指定するapp.activeDocument.activeLayer = app.activeDocument.layerSets["紅葉"];

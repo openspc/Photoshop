@@ -1,0 +1,1 @@
+﻿// レイヤーカンプが選択されているか調べるvar comps = app.activeDocument.layerComps;var flag = comps[0].selected;if (flag === false){    alert("最初のレイヤーカンプは選択されていません");}else{    alert("最初のレイヤーカンプが選択されています");}var flag = comps[1].selected;if (flag === false){    alert("2番目のレイヤーカンプは選択されていません");}else{    alert("2番目のレイヤーカンプが選択されています");}

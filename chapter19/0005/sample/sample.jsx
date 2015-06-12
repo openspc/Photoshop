@@ -1,0 +1,1 @@
+﻿// カウントの座標値を表示するvar countNo = 0;    // 読み出すカウントの位置var x = app.activeDocument.countItems[countNo].position[0];var y = app.activeDocument.countItems[countNo].position[1];alert(x+", "+y);var n1 = x.as("mm");var n2 = x.as("pt");var n3 = x.as("in");var n4 = parseFloat(x);alert(n1+"mm\n"+n2+"pt\n"+n3+"in\n"+n4);

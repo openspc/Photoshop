@@ -1,0 +1,1 @@
+﻿// コントラストを自動調整する（イメージ＞自動コントラスト）app.activeDocument.activeLayer.autoContrast();

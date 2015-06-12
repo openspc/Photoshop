@@ -1,0 +1,1 @@
+﻿// ファイルを開くvar fileObj = new File("~/Desktop/0001.png");if(fileObj){    app.open(fileObj);    // 以後、何らかの処理}

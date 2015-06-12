@@ -1,0 +1,1 @@
+﻿// テキストレイヤーの位置を変更するvar layObj = app.activeDocument.activeLayer;layObj.textItem.position = [UnitValue(50, "px"), UnitValue(20, "px")];

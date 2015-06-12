@@ -1,0 +1,1 @@
+﻿// レイヤー画像をコピーするapp.activeDocument.layers[0].copy();

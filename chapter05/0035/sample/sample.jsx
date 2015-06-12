@@ -1,0 +1,1 @@
+﻿// レイヤーの矩形サイズを表示するvar layObj = app.activeDocument.layers["御射鹿池"];var rect = layObj.bounds;var rectFx = layObj.boundsNoEffects;alert(rect);alert(rectFx);

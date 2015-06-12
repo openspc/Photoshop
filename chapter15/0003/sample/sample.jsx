@@ -1,0 +1,1 @@
+﻿// ガイドの座標値を求めるvar coord = app.activeDocument.guides[0].coordinate;alert(coord);

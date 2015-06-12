@@ -1,0 +1,1 @@
+﻿// アクティブレイヤーが背景かどうか調べるvar flag = app.activeDocument.activeLayer.isBackgroundLayer;alert(flag);

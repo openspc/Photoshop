@@ -1,0 +1,1 @@
+﻿// レイヤーの合成モードを指定するapp.activeDocument.layers[0].blendMode = BlendMode.MULTIPLY; // 乗算モード

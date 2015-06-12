@@ -1,0 +1,1 @@
+﻿// 選択範囲内を消去するapp.activeDocument.selection.clear();

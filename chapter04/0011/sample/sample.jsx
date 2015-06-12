@@ -1,0 +1,1 @@
+﻿// チャンネルを分割するvar docList = app.activeDocument.splitChannels();alert("チャンネルを"+docList.length + "個のドキュメントに分割しました");

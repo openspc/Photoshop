@@ -1,0 +1,1 @@
+﻿// 選択範囲内の画像を移動させるvar dx = UnitValue("-10px");var dy = UnitValue("30px");app.activeDocument.selection.translate(dx, dy);

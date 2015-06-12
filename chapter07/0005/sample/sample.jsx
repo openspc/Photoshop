@@ -1,0 +1,1 @@
+﻿// 自動トーン補正を行う（イメージ＞自動トーン補正）app.activeDocument.activeLayer.autoLevels();

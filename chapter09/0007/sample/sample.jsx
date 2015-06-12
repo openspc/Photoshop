@@ -1,0 +1,1 @@
+﻿// Photoshopのカラーピッカーを表示するvar flag = showColorPicker();alert(flag);// 開発ツールESTKでのカラーピッカーを表示するvar color = $.colorPicker(0xFF0000);var R = (color & 0xFF0000) >> 16;var G = (color & 0xFF00) >> 8;var B = color & 0xFF;alert(R+", "+G+", "+B);

@@ -1,0 +1,1 @@
+﻿// QuickTimeが有効かどうか調べるvar flag = app.isQuicktimeAvailable();alert(flag);

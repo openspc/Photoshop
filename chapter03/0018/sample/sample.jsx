@@ -1,0 +1,1 @@
+﻿// 取り消し（アンドゥ）executeAction(charIDToTypeID("undo"), undefined, DialogModes.NO);

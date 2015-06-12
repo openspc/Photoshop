@@ -1,0 +1,1 @@
+﻿// トーンカーブ（イメージ＞色調補正＞トーンカーブ）app.activeDocument.activeLayer.adjustCurves(   [[ 0, 0 ], [ 128, 10 ], [ 255, 255 ]]);

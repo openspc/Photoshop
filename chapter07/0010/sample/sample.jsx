@@ -1,0 +1,1 @@
+﻿// 白黒画像にする（イメージ＞色調補正＞2 階調化）app.activeDocument.activeLayer.threshold(128);

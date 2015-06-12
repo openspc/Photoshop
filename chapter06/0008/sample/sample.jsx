@@ -1,0 +1,1 @@
+﻿// レイヤーセットが第一階層かどうか調べるvar docObj = app.activeDocument;var lsObj1 = docObj.layerSets["紅葉"];var lsObj2 = docObj.layerSets["紅葉"].layerSets["グループ 2"]var p1 = lsObj1.parent.typename;	// 親オブジェクトの種類を取得var p2 = lsObj2.parent.typename;	// 親オブジェクトの種類を取得alert(p1+"\n"+p2);

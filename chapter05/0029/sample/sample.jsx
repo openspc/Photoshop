@@ -1,0 +1,1 @@
+﻿// レイヤー画像の大きさを変更する（リサイズ）app.activeDocument.layers["マット"].resize(    300,    // 水平方向のスケール    80, // 垂直方向のスケール    AnchorPosition.MIDDLECENTER // 基準位置);

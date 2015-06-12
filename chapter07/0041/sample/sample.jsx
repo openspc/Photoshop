@@ -1,0 +1,1 @@
+﻿// ガラス効果（フィルター＞変形＞ガラス）var fileObj = new File("~/Desktop/text.psd");   // デスクトップ上にあるtext.psdファイルapp.activeDocument.activeLayer.applyGlassEffect(    10,    // ゆがみ    5,    // 滑らかさ    100,    // 拡大縮小／スケールは100%    false,  // 階調は反転しない    TextureType.FILE,   // テクスチャファイルを使用    fileObj // テクスチャファイルオブジェクト);

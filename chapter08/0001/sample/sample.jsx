@@ -1,0 +1,1 @@
+﻿//チャンネル数を求めるvar n = app.activeDocument.channels.length;alert(n);

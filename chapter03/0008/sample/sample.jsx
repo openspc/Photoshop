@@ -1,0 +1,1 @@
+// カラープロファイル名を求めるvar colName = app.activeDocument.colorProfileName;var colType = app.activeDocument.colorProfileType;alert(colType+"\n"+colName);

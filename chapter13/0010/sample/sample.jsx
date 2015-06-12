@@ -1,0 +1,1 @@
+﻿// Targa形式で保存するvar fileObj = new File("~/Desktop/sample.pdf");var tgaOpt = new TargaSaveOptions();tgaOpt.alphaChannels = true;    // αチャンネルは保存tgaOpt.resolution = TargaBitsPerPixels.THIRTYTWO;   // 32ビットカラーtgaOpt.rleCompression = false;  // RLE（ランレングス圧縮）しないactiveDocument.saveAs(fileObj, tgaOpt, true, Extension.LOWERCASE);

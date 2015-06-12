@@ -1,0 +1,1 @@
+﻿// レイヤーセットを移動するvar srcLayerSetObj = app.activeDocument.layerSets["紅葉"].layerSets["グループ 2"];    // 移動するレイヤーセットvar dstLayerSetObj = app.activeDocument.layerSets["外枠"];    // 基準となるレイヤーセットsrcLayerSetObj.move(dstLayerSetObj, ElementPlacement.PLACEAFTER);   // 後ろに移動

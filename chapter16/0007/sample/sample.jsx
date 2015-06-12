@@ -1,0 +1,1 @@
+﻿// 特定のヒストリーに戻すvar myHistory = app.activeDocument.historyStates["文字ツール"];app.activeDocument.activeHistoryState = myHistory;

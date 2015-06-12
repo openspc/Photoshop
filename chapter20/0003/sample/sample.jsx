@@ -1,0 +1,1 @@
+﻿// すべてのイベント処理を削除するvar n = app.notifiers.length;app.notifiers.removeAll();alert(n+"個のイベントを削除しました");

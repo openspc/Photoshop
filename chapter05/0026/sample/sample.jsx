@@ -1,0 +1,1 @@
+﻿// 指定したレイヤーに画像をペーストするapp.activeDocument.activeLayer = app.activeDocument.layerSets["マット"].layers["ベース"];try{    app.activeDocument.paste();}catch(e){    alert("ペーストできません。画像データがコピーされていない可能性があります");}

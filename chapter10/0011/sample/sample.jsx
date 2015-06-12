@@ -1,0 +1,1 @@
+﻿// 選択範囲のサイズを変更するapp.activeDocument.selection.resizeBoundary(50, 120, AnchorPosition.MIDDLECENTER);

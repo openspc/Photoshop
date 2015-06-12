@@ -1,0 +1,1 @@
+// シアー（フィルター＞変形＞シアー）app.activeDocument.activeLayer.applyShear(    [[0,0] , [28,28], [0,216]],    UndefinedAreas.WRAPAROUND);

@@ -1,0 +1,1 @@
+﻿// 選択範囲を反転させるapp.activeDocument.selection.invert();

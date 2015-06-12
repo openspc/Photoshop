@@ -1,0 +1,1 @@
+﻿// 平均化する（イメージ＞色調補正＞平均化(イコライズ)）app.activeDocument.activeLayer.equalize();

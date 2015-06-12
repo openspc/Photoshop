@@ -1,0 +1,1 @@
+// アクティブレイヤーの文字カラーを変更するvar mColor = new SolidColor();  // 紫色にするmColor.rgb.red = 192;mColor.rgb.blue = 192;mColor.rgb.green = 32;app.activeDocument.activeLayer.textItem.color = mColor;

@@ -1,0 +1,1 @@
+﻿// レイヤーセットの不透明度を指定するapp.activeDocument.layerSets["紅葉"].opacity = 45; // 45%

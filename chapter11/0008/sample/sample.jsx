@@ -1,0 +1,1 @@
+﻿// 指定したパスの選択を解除するapp.activeDocument.pathItems["パス 1"].deselect();

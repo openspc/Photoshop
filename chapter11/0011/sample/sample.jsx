@@ -1,0 +1,1 @@
+﻿// 指定したパスの境界線を描画するapp.activeDocument.pathItems["パス 1"].strokePath(ToolType.BRUSH, false);

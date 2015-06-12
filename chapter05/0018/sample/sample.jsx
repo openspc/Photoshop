@@ -1,0 +1,1 @@
+﻿// レイヤーを移動するvar srcLayerSetObj = app.activeDocument.layerSets["図形"].layers["レイヤー 1"];    // 移動するレイヤーvar dstLayerSetObj = app.activeDocument.layers[0];    // 基準となるレイヤー（一番上）srcLayerSetObj.move(dstLayerSetObj, ElementPlacement.PLACEBEFORE);   // 一番上に移動

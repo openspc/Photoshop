@@ -1,0 +1,1 @@
+﻿// すべての領域を表示するapp.activeDocument.revealAll();

@@ -1,0 +1,1 @@
+﻿// 選択範囲を拡張するapp.activeDocument.selection.expand(UnitValue("30px"));

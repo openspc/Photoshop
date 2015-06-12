@@ -1,0 +1,1 @@
+// 画像を上下反転させるapp.activeDocument.flipCanvas(Direction.VERTICAL);

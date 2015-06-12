@@ -1,0 +1,1 @@
+﻿// 計測結果をすべて削除するapp.measurementLog.deleteMeasurements(MeasurementRange.ALLMEASUREMENTS);

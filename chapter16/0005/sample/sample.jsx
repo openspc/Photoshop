@@ -1,0 +1,1 @@
+﻿// スクリプトの処理をヒストリーに記録しないようにするmakeLayer(5);   // レイヤーを５つ生成app.activeDocument.suspendHistory("レイヤー一括生成", "makeLayer(5)");// 指定された数だけレイヤーを生成する関数function makeLayer(n){    for(var i=0; i<n; i++){        app.activeDocument.artLayers.add(i);    }}

@@ -1,0 +1,1 @@
+// アクティブレイヤーの文字サイズを変更するapp.activeDocument.activeLayer.textItem.size = UnitValue("48pt");

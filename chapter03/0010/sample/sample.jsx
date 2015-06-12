@@ -1,0 +1,1 @@
+﻿// ピクセルの縦横比を求める／設定するvar ratio = app.activeDocument.pixelAspectRatio;alert(ratio);// 縦横比を1.0にするapp.activeDocument.pixelAspectRatio = 1.0;var ratio = app.activeDocument.pixelAspectRatio;alert(ratio);

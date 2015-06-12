@@ -1,0 +1,1 @@
+﻿// レイヤーをロックするapp.activeDocument.layers["白マット"].allLocked = true;

@@ -1,0 +1,1 @@
+﻿// カラーサンプルを追加するvar x = UnitValue(10, "px");    // X座標を指定var y = UnitValue(50, "px");    // Y座標を指定var cs = app.activeDocument.colorSamplers.add([x, y]);

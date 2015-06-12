@@ -1,0 +1,1 @@
+﻿// 一番最初のレイヤー名を変更するapp.activeDocument.layers[0].name = "撮影場所";

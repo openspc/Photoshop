@@ -1,0 +1,1 @@
+﻿// ドキュメントの色深度を求めるvar depth = app.activeDocument.bitsPerChannel;alert(depth);

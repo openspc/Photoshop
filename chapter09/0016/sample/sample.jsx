@@ -1,0 +1,1 @@
+// 白黒にするvar opt = new BitmapConversionOptions();opt.angle = 45; // 線数opt.frequency = 20; // 網点の細かさopt.method = BitmapConversionType.HALFTONESCREEN;   // ハーフトーンスクリーンopt.resolution = 72;    // 解像度opt.shape   = BitmapHalfToneType.LINE;  // 線で描画app.activeDocument.changeMode(ChangeMode.GRAYSCALE);app.activeDocument.changeMode(ChangeMode.BITMAP, opt);

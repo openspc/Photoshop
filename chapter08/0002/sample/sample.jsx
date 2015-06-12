@@ -1,0 +1,1 @@
+// チャンネルを追加するvar chObj = app.activeDocument.channels.add();chObj.name = "背景切り抜き用チャンネル";    // チャンネル名を指定chObj.opacity = 75;    // 不透明度を75%chObj.visible = true;   // チャンネルを表示chObj.color = (function(){   // チャンネルカラーをオレンジ色に指定    var color = new SolidColor();    color.rgb.red = 255;    color.rgb.green = 128;    color.rgb.blue = 10;    return color;})();

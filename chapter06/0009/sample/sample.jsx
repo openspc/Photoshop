@@ -1,0 +1,1 @@
+﻿// レイヤーセットを統合するvar lsObj = app.activeDocument.layerSets["紅葉"];lsObj.merge();

@@ -1,0 +1,1 @@
+﻿// レイヤーの種類を調べるvar layerType = app.activeDocument.activeLayer.kind;alert(layerType);

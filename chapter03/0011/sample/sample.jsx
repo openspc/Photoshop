@@ -1,0 +1,1 @@
+﻿// クイックマスクモードかどうか調べるvar flag = app.activeDocument.quickMaskMode;if(flag === true){    alert("クイックマスクモードです");}else{    alert("クイックマスクモードではありません");}

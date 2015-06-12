@@ -1,0 +1,1 @@
+﻿// レイヤーカンプを削除するapp.activeDocument.layerComps[0].remove();

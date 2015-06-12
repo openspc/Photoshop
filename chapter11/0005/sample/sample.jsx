@@ -1,0 +1,1 @@
+﻿// 指定したパスを削除するapp.activeDocument.pathItems[0].remove();app.activeDocument.pathItems["作業用パス"].remove();

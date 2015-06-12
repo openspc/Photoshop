@@ -1,0 +1,1 @@
+// アクティブになっているレイヤー名を表示するvar layObj = app.activeDocument.activeLayer;alert(layObj.name);

@@ -1,0 +1,1 @@
+﻿// 光彩拡散（フィルター＞変形＞光彩拡散）app.activeDocument.activeLayer.applyDiffuseGlow(    7,  // きめの度合い    2,  // 光彩度    10  // 透明度);

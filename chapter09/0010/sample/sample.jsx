@@ -1,0 +1,1 @@
+﻿// カラーサンプルの座標値を変更するvar x = UnitValue(30, "px");    // X座標を指定var y = UnitValue(70, "px");    // Y座標を指定app.activeDocument.colorSamplers[0].move([x, y]);

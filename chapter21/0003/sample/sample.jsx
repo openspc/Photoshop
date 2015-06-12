@@ -1,0 +1,1 @@
+﻿// オプションを指定してバッチ処理を実行するvar srcFolder = new Folder("~/Desktop/images/");  // デスクトップのimagesフォルダvar fileList = srcFolder.getFiles("*.psd");   // PSDファイルのみ処理するvar opt = new BatchOptions();opt.destination = BatchDestinationType.SAVEANDCLOSE;    // 保存して閉じるapp.batch(fileList, "クワドラントカラー", "初期設定のアクション", opt);

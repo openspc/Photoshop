@@ -1,0 +1,1 @@
+﻿/*<javascriptresource><name>背景をレイヤーに変換する(3)</name><menu>help</menu><about>JavaScriptで背景をレイヤーに変換します</about><category>Layer</category><enableinfo>true</enableinfo></javascriptresource>*/// 背景をレイヤーに変換するvar ptr = app.activeDocument.layers.length;app.activeDocument.layers[ptr - 1].isBackgroundLayer = false;

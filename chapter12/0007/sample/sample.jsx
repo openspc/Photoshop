@@ -1,0 +1,1 @@
+﻿// テキストレイヤーの位置を表示するvar layObj = app.activeDocument.activeLayer;var x = layObj.textItem.position[0];    // X座標var y = layObj.textItem.position[1];    // Y座標alert(x+"×"+y);

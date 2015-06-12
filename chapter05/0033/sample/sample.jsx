@@ -1,0 +1,1 @@
+﻿// レイヤーのピクセルをロックするapp.activeDocument.layers["マット"].pixelsLocked = true;

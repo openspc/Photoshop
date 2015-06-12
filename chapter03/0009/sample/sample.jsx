@@ -1,0 +1,1 @@
+﻿// ドキュメントが保存済みかどうか調べるvar flag = app.activeDocument.saved;if(flag === true){    alert("保存済みです");}else{    alert("保存されていません");}

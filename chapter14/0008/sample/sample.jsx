@@ -1,0 +1,1 @@
+// フォルダにある画像ファイルをまとめて開くvar folderObj = Folder.selectDialog("画像ファイルがあるフォルダを選択してください");var fileList = folderObj.getFiles("*.psd"); // Photoshop形式ファイル一覧を取得するfor(var i=0; i<fileList.length; i++){    try{        app.open(fileList[i]);  // ファイルを開く    }catch(e){}}

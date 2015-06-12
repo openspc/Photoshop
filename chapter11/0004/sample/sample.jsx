@@ -1,0 +1,1 @@
+// 指定したパスをクリッピングパスにするapp.activeDocument.pathItems["パス 2"].makeClippingPath(2);

@@ -1,0 +1,1 @@
+﻿// ぼかす（フィルター＞ぼかし＞ぼかし(強)）app.activeDocument.activeLayer.applyBlurMore();

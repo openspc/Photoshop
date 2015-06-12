@@ -1,0 +1,1 @@
+﻿//ドキュメント数を求めるvar n = app.documents.length;alert(n);

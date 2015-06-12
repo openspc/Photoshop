@@ -1,0 +1,1 @@
+﻿// レイヤーセット内にあるレイヤーの数を求めるvar n1 = app.activeDocument.layerSets[0].layers.length; // レイヤー総数var s1 = app.activeDocument.layerSets[0].layerSets.length;  // レイヤーセット総数var n2 = app.activeDocument.layerSets[0].layerSets[0].layers.length;    // レイヤー総数var s2 = app.activeDocument.layerSets[0].layerSets[0].layerSets.length; // レイヤーセット総数alert((n1-s1)+"\n"+(n2-s2));

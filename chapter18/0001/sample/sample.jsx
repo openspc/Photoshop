@@ -1,0 +1,1 @@
+// 計測スケールを設定するvar ms = app.activeDocument.measurementScale;ms.pixelLength = 2; // 2pixelで1pixel分にするms.logicalLength = 10;  // 10倍にする

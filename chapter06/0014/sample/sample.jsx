@@ -1,0 +1,1 @@
+﻿// レイヤーセットの合成モードを指定するapp.activeDocument.layerSets["紅葉"].blendMode = BlendMode.MULTIPLY; // 乗算モード

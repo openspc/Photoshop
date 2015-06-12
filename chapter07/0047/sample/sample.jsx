@@ -1,0 +1,1 @@
+﻿// ハイパス（フィルター＞その他＞ハイパス）app.activeDocument.activeLayer.applyHighPass(10);

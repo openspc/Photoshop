@@ -1,0 +1,1 @@
+// 指定したレイヤーの文字を表示するvar text = app.activeDocument.layers[1].textItem.contents;alert(text);

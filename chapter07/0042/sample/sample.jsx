@@ -1,0 +1,1 @@
+﻿// 極座標（フィルター＞変形＞極座標）app.activeDocument.activeLayer.applyPolarCoordinates(    PolarConversionType.RECTANGULARTOPOLAR);

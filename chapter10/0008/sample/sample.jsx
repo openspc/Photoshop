@@ -1,0 +1,1 @@
+﻿// 境界線を選択するapp.activeDocument.selection.selectBorder(UnitValue("10px"));

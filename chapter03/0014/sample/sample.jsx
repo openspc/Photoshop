@@ -1,0 +1,1 @@
+﻿// ドキュメントを保存するapp.activeDocument.save();

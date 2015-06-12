@@ -1,0 +1,1 @@
+﻿// 1枚だけ印刷するapp.activeDocument.printOneCopy();

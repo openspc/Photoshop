@@ -1,0 +1,1 @@
+﻿// 第一階層（ルート）にあるすべてのレイヤー名を表示するvar layObj = app.activeDocument.layers;var text = "";for(var i=0; i<layObj.length; i++){ // レイヤーの数だけ繰り返す    text = text + layObj[i].name + "\n";    // 名前を読み出す}alert(text);

@@ -1,0 +1,1 @@
+﻿// アクティブレイヤーのフォントを変更するapp.activeDocument.activeLayer.textItem.font = "Times-BoldItalic";

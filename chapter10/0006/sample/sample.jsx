@@ -1,0 +1,1 @@
+﻿// 選択範囲をαチャンネルに保存するvar aCh = app.activeDocument.channels.add();    // 新規チャンネルapp.activeDocument.selection.store(aCh);

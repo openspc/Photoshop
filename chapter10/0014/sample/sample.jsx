@@ -1,0 +1,1 @@
+﻿// 選択範囲を移動させるvar dx = UnitValue("-10px");var dy = UnitValue("30px");app.activeDocument.selection.translateBoundary(dx, dy);

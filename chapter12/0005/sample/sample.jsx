@@ -1,0 +1,1 @@
+// アクティブレイヤーの文字を表示するvar layObj = app.activeDocument.activeLayer;if (layObj.kind == LayerKind.TEXT){ // レイヤーの種類がテキストの場合のみ処理    var text = layObj.textItem.contents;    // 文字を読み出す    alert(text);}else{    alert("テキストレイヤーではありません");}

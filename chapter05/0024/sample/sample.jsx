@@ -1,0 +1,1 @@
+﻿// レイヤー画像をカットするapp.activeDocument.layers["マット"].cut();

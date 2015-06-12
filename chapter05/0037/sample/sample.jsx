@@ -1,0 +1,1 @@
+// アクティブレイヤーがクリッピングされているかどうか調べるvar flag = app.activeDocument.activeLayer.grouped;alert(flag);

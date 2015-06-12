@@ -1,0 +1,1 @@
+﻿// ドキュメントが新規作成された場合、自動的にレイヤーを追加するapp.notifiersEnabled = true;var fileObj = new File("~/Desktop/addLayer.jsx");try{    app.notifiers.add("Mk  ", fileObj);    alert(app.notifiers.length);}catch(e){}

@@ -1,0 +1,1 @@
+﻿// 選択範囲内の画像を回転させるapp.activeDocument.selection.rotate(20, AnchorPosition.MIDDLECENTER);

@@ -1,0 +1,1 @@
+// ガイドをすべて削除するactiveDocument.guides.removeAll();

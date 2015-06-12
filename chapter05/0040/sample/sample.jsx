@@ -1,0 +1,1 @@
+﻿// レイヤーマスクの不透明度を変更するapp.activeDocument.layers["節分草"].layerMaskDensity = 30;

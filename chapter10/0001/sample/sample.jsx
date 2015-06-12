@@ -1,0 +1,1 @@
+﻿// 選択範囲を解除するapp.activeDocument.selection.deselect();

@@ -1,0 +1,1 @@
+// ぼかす（フィルター＞ぼかし＞ぼかし(詳細)）app.activeDocument.activeLayer.applySmartBlur(    10, // 半径    50, // 閾値    SmartBlurQuality.HIGH,  // 高画質    SmartBlurMode.NORMAL    // 標準);

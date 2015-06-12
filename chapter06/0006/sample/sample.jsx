@@ -1,0 +1,1 @@
+﻿// レイヤーセットを削除するapp.activeDocument.layerSets[0].remove();   // 最初のレイヤーセットapp.activeDocument.layerSets["外枠"].layerSets[0].remove();

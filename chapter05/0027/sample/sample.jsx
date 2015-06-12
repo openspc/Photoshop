@@ -1,0 +1,1 @@
+﻿// レイヤー画像を移動するvar dx = UnitValue(100, "px");   // 100pxvar dy = UnitValue(3, "cm");    // 3cmapp.activeDocument.layers["マット"].translate(dx, dy);

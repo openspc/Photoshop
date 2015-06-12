@@ -1,0 +1,1 @@
+﻿// アンシャープマスク（フィルター＞シャープ＞アンシャープマスク）app.activeDocument.activeLayer.applyUnSharpMask(512, 7.65, 64);

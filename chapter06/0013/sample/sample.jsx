@@ -1,0 +1,1 @@
+﻿// レイヤーセットのロックと解除app.activeDocument.layerSets["紅葉"].allLocked = true;  // ロックするapp.activeDocument.layerSets["テキスト"].allLocked = false;   // ロック解除app.activeDocument.layerSets["外枠"].allLocked = false;  // ロック解除

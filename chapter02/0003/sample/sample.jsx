@@ -1,0 +1,1 @@
+﻿// スクリプトエンジンのバージョンを表示するvar ver = app.scriptingVersion;var build = app.scriptingBuildDate;alert(ver+"\n"+build);
